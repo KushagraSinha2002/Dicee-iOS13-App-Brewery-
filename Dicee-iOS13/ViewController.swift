@@ -27,12 +27,18 @@ class ViewController: UIViewController {
         //diceImageView1.image = UIImage(imageLiteralResourceName: "DiceSix")
         
         // change opacity of image
-        diceImageView1.alpha = 0.5
+        //diceImageView1.alpha = 0.5
         
         diceImageView2.image = #imageLiteral(resourceName: "DiceTwo")
         
     }
-
+    
+    @IBAction func rollButtonPressed(_ sender: UIButton) {
+        print("Roll button Pressed")
+        diceImageView1.image = UIImage(imageLiteralResourceName: "DiceFour")
+        diceImageView2.image = UIImage(imageLiteralResourceName: "DiceFour")
+    }
+    
 
 }
 
