@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         diceImageView1.image = UIImage(imageLiteralResourceName: "DiceFour")
         diceImageView2.image = UIImage(imageLiteralResourceName: "DiceFour")
     }
-    
+    //test commit
 
 }
 
