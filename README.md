@@ -2,6 +2,8 @@
 
 # Dicee
 
+<img width="467" alt="Screenshot 2022-06-21 at 11 11 10 AM" src="https://user-images.githubusercontent.com/74058421/174724505-d2afe3de-80bb-4980-ab96-28a085726d33.png">
+
 ## Our Goal
 
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
